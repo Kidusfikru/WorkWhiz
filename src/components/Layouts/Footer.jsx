@@ -115,7 +115,7 @@ const Footer = () => {
                         fontWeight="500"
                         lineHeight="28px"
                       >
-                        (319) 555-0115
+                        +251 911 111 111
                       </Typography>
                     </Box>
                     <Box display="flex" alignItems="center" gap={2}>
@@ -128,8 +128,7 @@ const Footer = () => {
                         fontWeight="400"
                         lineHeight="20px"
                       >
-                        6391 Elgin St. Celina, Delaware 10299, New York, United
-                        States of America
+                        Mickey Leland St, Atlas, Bole, Addis Ababa, Ethiopia
                       </Typography>
                     </Box>
                   </Box>
@@ -299,7 +298,7 @@ const Footer = () => {
               fontWeight="400"
               lineHeight="20px" /* 142.857% */
             >
-              @ 2021 Jobpilot - Job Portal. All rights Rserved
+              @ 2024 WorkWhiz by Kidus F. All rights Rserved
             </Typography>
             <Box display="flex" alignItems="flex-start" gap={2}>
               <svg
